@@ -3,6 +3,7 @@
 @section('content')
     <!-- Page content-->
     <div class="container">
+        <div>Test Revisi</div>
         <div class="row">
             <!-- Blog entries-->
             <div class="col-lg-8">
