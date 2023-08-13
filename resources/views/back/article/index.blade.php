@@ -32,7 +32,7 @@
 
             <div class="deleteContentswal" data-swal="{{ session('deleted')}}"></div>
 
-            <table class="table table-striped table-bordered table-hover" id="da    taTable">
+            <table class="table table-striped table-bordered table-hover" id="dataTable">
                 <thead>
                     <tr>
                         <th>No</th>
@@ -45,7 +45,6 @@
                     </tr>
                 </thead>
                 <tbody>
-
                 </tbody>
             </table>
         </div>
